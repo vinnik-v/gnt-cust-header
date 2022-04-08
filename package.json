@@ -1,7 +1,7 @@
 {
-  "name": "gantt-elastic-header",
+  "name": "gnt-cust-header",
   "version": "0.1.11",
-  "description": "default header for gantt-elastic",
+  "description": "gnt-cust-header",
   "main": "src/Header.vue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,19 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neuronetio/gantt-elastic-header.git"
+    "url": "git+https://github.com/vinnik-v/gnt-cust-header.git"
   },
-  "keywords": [
-    "gantt",
-    "gantt-elastic",
-    "header"
-  ],
-  "author": "neuronet.io@gmail.com",
+  "keywords": [],
+  "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/neuronetio/gantt-elastic-header/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/neuronetio/gantt-elastic-header#readme",
+  "homepage": "",
   "dependencies": {
     "vue": "^2.6.10",
     "vue-slider-component": "^3.0.31",
